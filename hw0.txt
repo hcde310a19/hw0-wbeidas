@@ -1,3 +1,9 @@
 # Description of your program (part 7)
-
+I would have code that retrieves the file. Then, I would assign a counter variable for each word
+and have that counter increase for each word in that file.
 # Reflection on writing your program (part 8)
+The previous exercise was not that difficult, however, I do not actually know the fundamentals in
+order to execute the stated process in part 7. It was satisfying to see that I have a general idea
+of what to do because I have prior knowledge from CSE 142. The only unsatisfying thing is not
+knowing how to actually write the code. Lastly, I hope this course can prepare me  well enough so
+I can apply my education in a work environment and excel in a future development job.
